@@ -1,5 +1,3 @@
-<img src="/assets/profile.jpg" alt="Hung Nguyen" style="width:50px; border-radius:50%;">
-
 # Hung NGUYEN
 
 **CIFRE PhD Student** — [Institut Polytechnique de Paris (IP Paris)](https://www.ip-paris.fr/en) × [Nokia Bell Labs](https://www.bell-labs.com/)  
